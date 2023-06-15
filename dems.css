@@ -1,0 +1,52 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.title{
+	text-align: center;
+	align-content: center;
+	margin:auto;
+	color: white;
+	font-size: 35px;
+	font-family: Goudy Old Style ;
+}
+.text{
+	text-align: center;
+	align-content: center;
+	margin:auto;
+}
+
+.text1{
+	text-align: justify;
+	align-content: center;
+	margin:auto;
+	font-size: 20px;
+	font-family: Goudy Old Style;
+}
+
+.myol{
+	display: inline-block;
+	text-align: left;
+}
+
+
+
+.background{
+	background: url(banner2.jpg) no-repeat center center; 
+	background-attachment: scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #6290c8;
+	text-decoration: none;
+}
